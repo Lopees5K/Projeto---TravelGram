@@ -12,5 +12,3 @@ Estilização de Imagens: Uso de object-fit: cover para evitar distorções em f
 
 Versionamento: Controle de versão realizado com Git e GitHub.
 
-📚 Créditos de Aprendizado
-Este projeto faz parte da minha jornada de 14 dias de estudo (e contando!), utilizando como base os ensinamentos da Rocketseat e os fundamentos sólidos do Curso em Vídeo (Prof. Gustavo Guanabara).
